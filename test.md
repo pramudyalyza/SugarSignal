@@ -201,5 +201,3 @@ Bundle everything into one item, like sending one email that lists all orders in
 
 👉 If you’re thinking *“I need to bring branches together”* → use **Merge**.
 👉 If you’re thinking *“I need to turn many items into one”* → use **Aggregate**.
-
-```
